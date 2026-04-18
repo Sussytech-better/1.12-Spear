@@ -34,7 +34,7 @@ With LungeFix:
 
 ## 📦 Requirements
 
-- Minecraft **1.21.11**
+- Minecraft server **1.21.11**
 - Paper server :contentReference[oaicite:0]{index=0}
 - Java 17+
 
