@@ -1,0 +1,6 @@
+name: LungeFix
+version: 1.0
+main: me.armond.lungefix.LungeFixPlugin
+api-version: 1.21
+author: susytech
+description: Makes Lunge work in air with cooldown + action bar

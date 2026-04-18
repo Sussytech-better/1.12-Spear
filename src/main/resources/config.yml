@@ -1,0 +1,12 @@
+cooldown-seconds: 4
+
+base-power: 1.0
+power-per-level: 0.5
+
+upward-boost: 0.1
+
+play-sound: true
+sound:
+  name: ENTITY_PLAYER_ATTACK_KNOCKBACK
+  volume: 1.0
+  pitch: 1.0
